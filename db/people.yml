@@ -113,6 +113,25 @@ aeberhadt:
       group: bg
   name: Ariane Eberhadt
   position: unknown
+aejaz:
+  active: true
+  aka: []
+  avatar: https://github.com/adibaejaz.png
+  bio: bio
+  education: []
+  email: 'adiba.ejaz@columbia.edu '
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergrad Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Adiba Ejaz
+  position: Undergrad Researcher
 akovyakh:
   active: false
   aka: []
@@ -188,6 +207,59 @@ amasadeh:
       group: bg
   name: Ahmad Masadeh
   position: Assistant Professor
+asartbaeva:
+  active: false
+  aka:
+    - Asel Sartbaeva
+    - Sartbaeva, A.
+    - Sartbaeva, Asel
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2002
+      degree: PhD in Mineral Physics
+      institution: University of Cambridge
+      end_year: 2004
+    - begin_year: 2001
+      degree: MPhil in Mineral Physics
+      institution: University of Cambridge
+      end_year: 2002
+    - begin_year: 1994
+      degree: MSc in Natural Science
+      institution: Kyrgyzskij Rossijskij Slavjanskij Universitet
+      end_year: 1999
+  employment:
+    - begin_year: 2016
+      begin_month: 9
+      organization: University of Bath
+      position: Lecturer in Chemistry
+    - begin_year: 2012
+      begin_month: 12
+      end_month: 3
+      end_year: 2019
+      organization: University of Bath
+      position: Royal Society University Research Fellow
+    - begin_year: 2011
+      begin_month: 1
+      end_month: 11
+      end_year: 2012
+      organization: University of Oxford
+      position: Royal Society University Research Fellow
+    - begin_year: 2007
+      begin_month: 8
+      end_month: 12
+      end_year: 2011
+      organization: University of Oxford
+      position: Glasstone Fellow
+    - begin_year: 2005
+      end_year: 2007
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Arizona State University
+      position: Post Doctoral Associate
+  name: Asel Sartbaeva
+  position: Lecturer in Chemistry
 ashaaban:
   active: true
   aka: []
@@ -243,8 +315,15 @@ bfrandsen:
 bozer:
   active: true
   aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  avatar: https://github.com/berrakozer.png
+  bio: Berrak is from Istanbul, Turkey. She acquired her Bachelor of Science Degree
+    with a Major in Operations Research in Engineering Management Systems and a Minor
+    in Materials Science and Engineering from Columbia University. She is currently
+    pursuing her Master of Science Degree in Materials Science and Engineering in
+    Columbia University. She has started doing research with Professor Billinge as
+    a member of Billinge Group in the beginning of her second semester as a Master’s
+    Degree student. Her extracurricular interests include playing the violin, volleyball
+    and skiing.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -789,8 +868,12 @@ dyano:
   aka:
     - Daniela Hikari Yano
     - Daniela Yano
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  avatar: http://github.com/dy2403.png
+  bio: Daniela was born and raised in Brazil, and is a First-Year student at Barnard
+    College. She is part of the Science Pathways Scholars Program, a program to support
+    young women from minorities who convey strong interest in science. Daniela also
+    enjoys playing table tennis, and represented the Brazilian Table Tennis Team in
+    some opportunities.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -1544,6 +1627,49 @@ jchung:
       group: bg
   name: Jean Chung
   position: unknown
+jliu:
+  active: false
+  aka:
+    - Jiwu Liu
+    - Liu, J.
+    - Liu, Jiwu
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2006
+      degree: PhD
+      institution: Michigan State University
+      end_year: 2009
+    - begin_year: 1996
+      degree: MS in Physics
+      institution: Institute of Solid State Physics
+      end_year: 1999
+    - begin_year: 1992
+      degree: BS in Physics
+      institution: Xinjiang University
+      end_year: 1996
+  employment:
+    - begin_year: 2013
+      begin_month: 1
+      organization: Microsoft
+      position: Software Development Engineer
+    - begin_year: 2010
+      begin_month: 7
+      end_month: 1
+      end_year: 2013
+      organization: Amazon.com
+      position: Software Development Engineer
+    - begin_year: 2009
+      begin_month: 10
+      end_month: 10
+      end_year: 2010
+      group: bg
+      status: phd
+      advisor: sbillinge
+      organization: Columbia University
+      position: Post Doctoral Associate
+  name: Jiwu Liu
+  position: Software Development Engineer
 jumana:
   active: true
   aka: []
@@ -2081,12 +2207,12 @@ nthomas:
   aka:
     - Nancy Thomas
     - Nancy Knight Thomas
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  avatar: https://github.com/noniethomas.png
+  bio: Nonie is a senior studying Applied Mathematics in the School of Engineering and Applied Science at Columbia. She started working with the Billinge Group the second semester of her senior year. After graduating, she will be attending MIT Sloan to pursue a Master of Business Analytics.
   education:
     - begin_year: 2016
       begin_month: 9
-      degree: BA in Applied Math
+      degree: BS in Applied Math
       institution: Columbia University
       end_year: 2020
       end_month: 5
@@ -2335,14 +2461,25 @@ rgu:
   aka:
     - Ran Gu
     - Gu, Ran
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  avatar: https://github.com/guran1214.png
+  bio: Ran was born in Shandong Province, China in 1989. He attended Nankai University
+    located in Tianjin where he earned a B. S. in Mathematics and earned a PhD in
+    Computational Mathematics in Chinese Academy of Sciences located in Beijing. He
+    joined the Billinge Group and Du's CM3 group in fall 2017 and is currently working
+    on pair distribution functions analysis and nanostructure inverse problem. In
+    his spare time, he likes to play bridge.
   education:
     - begin_year: 2012
-      degree: PhD in Applied Mathematics
+      degree: PhD in Computational Mathematics
       institution: Chinese Academy of Sciences
       end_year: 2017
       end_month: 6
+      location: Tianjin, China
+    - begin_year: 2008
+      degree: BS in Mathematics
+      institution: Nankai University
+      end_year: 2012
+      location: Tianjin, China
   employment:
     - begin_year: 2017
       begin_month: 9
@@ -2512,6 +2649,9 @@ sbanerjee:
   education:
     - institution: columbiau
       begin_year: 2013
+      begin_month: 9
+      end_year: 2019
+      end_month: Oct
       group: bg
       location: New York, NY
       department: apam
@@ -2565,9 +2705,11 @@ sbillinge:
     - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio: "Prof. Billinge has more than 20 years experience developing and applying techniques\
-    \ to study local structure in materials using x-ray, neutron and electron diffraction.\
-    \ He earned his Ph.D in Materials Science and Engineering from University of Pennsylvania\
+  bio: "Prof. Billinge has more than 25 years of experience developing and  applying\
+    \ techniques to study local structure in materials using x-ray,  neutron and electron\
+    \ diffraction including the development of novel data analysis methods including\
+    \ graph theoretic, Artificial Intelligence and Machine Learning approaches. He\
+    \ earned his Ph.D in Materials Science and Engineering from University of Pennsylvania\
     \ in 1992. After 13 years as a faculty member at Michigan State University, in\
     \ 2008 he took up his current position as Professor of Materials Science and Applied\
     \ Physics and Applied Mathematics at Columbia University and Physicist at Brookhaven\
@@ -2776,6 +2918,25 @@ sdisch:
       group: bg
   name: Sabrina Disch
   position: unknown
+sghose:
+  active: true
+  aka: []
+  avatar: https://github.com/shogho0.png
+  bio: bio
+  education: []
+  email: sg3789@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Shomik Ghose
+  position: Undergraduate Researcher
 sharouna-mayer:
   active: true
   aka: []
@@ -3096,7 +3257,7 @@ vgharakhanyan:
     - begin_year: 2019
       begin_month: 10
       end_year: 2020
-      end_month: 25
+      end_month: 5
       position: MS/PhD
       organization: columbiau
       advisor: sbillinge
@@ -3108,8 +3269,18 @@ vlin:
   active: true
   aka: []
   avatar: https://github.com/vivianlin2000.png
-  bio: bio
-  education: []
+  bio: Vivian is an undergraduate researcher at Columbia University. She was born
+    and raised in Northern Virginia (which is completely different from the rest of
+    VA) and is pursuing a BS in Applied Math with a concentration in Computer Science.
+    Vivian joined the Billinge group in the spring of 2020 and is excited to contribute
+    to the amazing work that Professor Billinge and his associates are doing.
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: BS in Applied Math + CS
+      institution: Columbia University
+      end_year: 2023
+      end_month: 5
   email: vl2445@columbia.edu
   employment:
     - begin_year: 2020
@@ -3141,6 +3312,44 @@ vnield:
       group: bg
   name: Victoria M. Nield
   position: unknown
+wzhou:
+  active: false
+  aka:
+    - Wenduo Zhou
+    - Zhou, W.
+    - Zhou, Wenduo
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1999
+      degree: PhD
+      institution: The University of Georgia
+      end_year: 2006
+  employment:
+    - begin_year: 2009
+      begin_month: 6
+      organization: Oak Ridge National Laboratory
+      position: Software Engineer
+    - begin_year: 2008
+      begin_month: 5
+      end_month: 6
+      end_year: 2009
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Columbia University
+      position: Post Doctoral Scholar
+    - begin_year: 2006
+      begin_month: 9
+      end_month: 5
+      end_year: 2008
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Scholar
+  name: Wenduo Zhou
+  position: Software Engineer
 xhyang:
   active: false
   aka:
@@ -3428,10 +3637,30 @@ zguguchia:
   position: Scientist
 zthatcher:
   active: true
-  aka: []
+  aka:
+    - Zach Thatcher
+    - Thatcher, Zachary A.
+    - Thatcher, Z. A.
+    - Zachary A. Thatcher
   avatar: https://github.com/zthatch.png
-  bio: bio
-  education: []
+  bio: Zach grew up in Connecticut and has spent the last few years working as an
+    engineering consultant in Arlington, VA. At the University of Connecticut he worked
+    on characterization of ferroelectric thin films as a member of HueyAFM Labs. As
+    an consulting engineer, he acted primarily as a a firmware developer for the medical
+    device industry, as well as a material scientist for the power industry. In his
+    free time you may catch him on a run or desperately trying to land a good kickflip.
+  education:
+    - begin_year: 2013
+      begin_month: 9
+      degree: B.S. in Material Science and Engineering
+      institution: University of Connecticut
+      end_year: 2017
+      end_month: 3
+    - begin_year: 2020
+      begin_month: 8
+      degree: PhD in Material Science
+      institution: Columbia University
+      group: bg
   email: zachary.alan.thatcher@gmail.com
   employment:
     - begin_year: 2020
@@ -3443,8 +3672,14 @@ zthatcher:
       group: bg
       advisor: sbillinge
       status: phd
+    - begin_year: 2017
+      begin_month: 7
+      end_year: 2020
+      end_month: 4
+      position: Engineering Consultant
+      organization: MPR Associates, Inc.
   name: Zach Thatcher
-  position: PhD researcher
+  position: PhD Researcher
 zzgong:
   active: false
   aka:
