@@ -370,6 +370,7 @@ bozer:
       advisor: sbillinge
       group: bg
       status: ms
+  github_id: berrakozer
   name: Berrak Ozer
   position: masters research assistant
 btabanpour:
@@ -1228,6 +1229,32 @@ fmohiuddin-jacobs:
       position: post-doctoral scholar
   name: Farida Mohiuddin-Jacobs
   position: lecturer
+fsimpson:
+  active: false
+  aka: []
+  avatar: https://github.com/jc-umana.png
+  bio: Farrah Graduated from Columbia Applied Physics program in 2017 and is doing
+    a PhD in experimental high energy physics at Brown University
+  education:
+    - institution: Columbia University
+      begin_year: 2013
+      end_year: 2017
+      location: New York, NY
+      department: apam
+      degree: BS in Applied Physics
+  email: ''
+  employment:
+    - begin_year: 2016
+      begin_month: 4
+      end_year: 2017
+      end_month: 5
+      organization: columbiau
+      position: undergraduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Farrah Simpson
+  position: undergraduate research assistant
 gcampi:
   active: false
   aka: []
@@ -1459,9 +1486,9 @@ hvuong:
       status: phd
       group: bg
   github_id: tienhungvuong
-  orcid_id: 0000-0001-7965-379X
   google_scholar_url: https://scholar.google.com/citations?user=DST508IAAAAJ&hl=en&authuser=1
   name: Hung Vuong
+  orcid_id: 0000-0001-7965-379X
   position: graduate research assistant
   skills:
     - level: proficient
@@ -1758,7 +1785,10 @@ jumana:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: jc-umana
+  google_scholar_url: https://scholar.google.com/citations?user=sapBk3kAAAAJ&hl=en
   name: Jaylyn C. Umana
+  orcid_id: 0000-0002-1882-8653
   position: undergraduate research assistant
 jwzang:
   active: true
@@ -1776,8 +1806,8 @@ jwzang:
     - institution: Columbia University
       begin_year: 2019
       location: New York, NY
-      department: Physics
-      degree: masters research assistant in Physics
+      department: physics
+      degree: MS/PhD in Physics
     - institution: Fudan University
       degree: BS in Physics
       begin_year: 2015
@@ -1794,7 +1824,9 @@ jwzang:
       group: bg
       advisor: sbillinge
       status: phd
+  github_id: jiaweizang
   name: Jiawei Zang
+  orcid_id: 0000-0002-3671-9282
   position: graduate research assistant
 kjensen:
   active: false
@@ -2628,7 +2660,10 @@ rgu:
       position: post-doctoral scholar
       group: bg
       organization: Columbia University
+  github_id: guran1214
+  google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
   name: Ran Gu
+  orcid_id: 0000-0002-4416-5021
   position: post-doctoral scholar
 rjacubinas:
   active: false
@@ -2675,7 +2710,9 @@ rkoch:
       organization: Brookhaven National Laboratory
       position: post-doctoral scholar
       status: postdoc
+  github_id: rjkoch
   name: Robert Koch
+  orcid_id: 0000-0003-4995-2101
   position: associate scientist
 rpokratath:
   active: true
@@ -3019,6 +3056,7 @@ sbillinge:
         - 'Advisor: George Kwei'
       status: postdoc
   funding: []
+  github_id: sbillinge
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   honors:
     - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
@@ -3199,6 +3237,7 @@ smayers:
       organization: Columbia University
       group: bg
       status: undergrad
+  github_id: samrmayers
   name: Sam Mayers
   position: undergraduate research assistant
 spattanaik:
@@ -3248,11 +3287,10 @@ sstao:
     - Tao, S.
   avatar: https://github.com/st3107.png
   bio: Songsheng grew up in Beijing, China. He attended Peking University where he
-    earned a B. S. in physics. As Ph. D. student in Columbia
-    University, he joined the Billinge Group in fall 2018 and is currently working
-    on developing tools for texture analysis and using pair distribution functions
-    for structure analysis. In his spare time, he enjoys board games and computer
-    games.
+    earned a B. S. in physics. As Ph. D. student in Columbia University, he joined
+    the Billinge Group in fall 2018 and is currently working on developing tools for
+    texture analysis and using pair distribution functions for structure analysis.
+    In his spare time, he enjoys board games and computer games.
   education:
     - institution: Columbia University
       begin_year: 2017
@@ -3277,11 +3315,11 @@ sstao:
       advisor: sbillinge
       status: phd
       group: bg
+  github_id: st3107
+  google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: graduate research assistant
-  github_id: st3107
-  google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
 swhan:
   active: false
   aka: []
@@ -3828,10 +3866,27 @@ yztao:
   position: post-doctoral scholar
 zcliu:
   active: true
-  aka: []
+  aka:
+    - Zicheng Liu
+    - Taylor Liu
   avatar: https://github.com/zichengliu1997.png
-  bio: bio
-  education: []
+  bio: Zicheng is from Guangzhou, China. He has spent the last year working as an undergraduate
+    research assistant in the plasma physics laboratory at Columbia University while majoring
+    in applied physics. He joined Dr. Billinge's group in the summer of 2020 as a visiting
+    undergraduate research assistant.
+  education:
+    - begin_year: 2015
+      begin_month: 8
+      degree: BS in Applied Physics
+      institution: columbiau
+      end_year: 2020
+      end_month: 5
+    - begin_year: 2015
+      begin_month: 8
+      degree: BA in Pre-engineering
+      institution: bardcsr
+      end_year: 2020
+      end_month: 5
   email: zl2754@columbia.edu
   employment:
     - begin_year: 2020
@@ -3843,6 +3898,14 @@ zcliu:
       group: bg
       advisor: sbillinge
       status: undergrad
+    - begin_year: 2019
+      begin_month: 5
+      organization: Plasma Physics Laboratory at Columbia University
+      department: apam
+      position: undergraduate research assistant
+      end_year: 2020
+      end_month: 5
+  github_id: zichengliu1997
   name: Zicheng "Taylor" Liu
   position: undergraduate research assistant
 zguguchia:
@@ -3920,6 +3983,7 @@ zthatcher:
       position_full: Engineering Consultant
       organization: MPR Associates, Inc.
   github_id: zthatch
+  google_scholar_url: https://scholar.google.com/citations?user=Vhe9fvkAAAAJ&hl=en&oi=ao
   name: Zach Thatcher
   orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
